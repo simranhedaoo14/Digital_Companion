@@ -1,0 +1,81 @@
+
+/* ===== Header Container ===== */
+.main-title {
+    background-color: #0b3d91;         /* Deep Blue */
+    color: #ffffff;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    font-size: 32px !important;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-title span {
+    font-family: 'Noto Sans Devanagari', sans-serif;
+    font-size: 26px;
+    display: block;
+    margin-top: 5px;
+}
+
+/* ===== Subtitle Below Header ===== */
+.main-subtitle {
+    font-size: 16px;
+    text-align: center;
+    color: #222;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main-subtitle br + span {
+    font-family: 'Noto Sans Devanagari', sans-serif;
+}
+
+/* ===== Button Hover Effect ===== */
+.stButton > button:hover {
+    background-color: #c8a568 !important;
+    color: white;
+}
+
+/* ===== AI Response Container ===== */
+.response-box {
+    background-color: #7cbadc;         /* Light Blue Background */
+    padding: 1.2rem;
+    border-radius: 12px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    color: #003366;                    /* Navy Blue Text */
+}
+
+/* ===== Response Heading Style ===== */
+.response-heading {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: #1a237e;                    /* Dark Indigo */
+    margin-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+/* ===== Page Background Color ===== */
+.stApp {
+    background-color: #F0F8FF;         /* Alice Blue */
+}
+
+/* ===== Page Layout Padding ===== */
+.block-container {
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+/* ===== Optional: Heading Colors ===== */
+h1, h2, h3 {
+    color: #000000;
+}
