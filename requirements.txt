@@ -1,5 +1,7 @@
 streamlit
+streamlit-mic-recorder
 pytesseract
-Pillow      # PIL is inside Pillow
-opencv-python   # for cv2
+Pillow
+opencv-python
 openai
+langchain
