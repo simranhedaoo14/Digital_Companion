@@ -1,7 +1,8 @@
 streamlit
-streamlit-mic-recorder
+pillow
 pytesseract
-Pillow
-opencv-python
+streamlit-mic-recorder
+crewai
+langchain-community
 openai
-langchain
+python-dotenv
